@@ -9,6 +9,11 @@ const Carddesign = ({ icon, name, amt }) => {
           <p className="text-[#878c9f] text-[13px] w-[90%]">{amt}</p>
         </div>
       </div>
+
+
+
+
+
     );
   };
   
