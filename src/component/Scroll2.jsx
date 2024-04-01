@@ -70,7 +70,7 @@ function Scroll() {
     ],
   };
   return (
-    <div className="px-10 min-h-40 mt-[68px] py-4">
+    <div className="px-10 min-h-40 py-4">
       <div className="slider-container px-4 pr-0 py-8 items-center justify-center">
         <Slider {...settings}>
           {cardData.map((data, index) => (
